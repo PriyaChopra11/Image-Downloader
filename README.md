@@ -1,6 +1,6 @@
 # Image Downloaded Library
 
-**Image Downloaded Library** is a cocoa framework which provides an functions to download image from server. User can use this library to download image from with minimum lines of code.
+**Image Downloaded Library** is a cocoa framework which provides an functions to download image from server. User can use this library to download image with minimum lines of code.
 
 ## Features
 -  Thread Safe
