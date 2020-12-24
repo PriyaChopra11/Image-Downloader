@@ -38,6 +38,7 @@ final class ImageDownloaderManager {
                 self?.imageCache.setObject(imageCache, forKey:(urlString as NSString))
             }
         }
+        print("work done")
         self.downloadQueue.addOperation(networkOperation)
     }
     
